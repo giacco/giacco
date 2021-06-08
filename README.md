@@ -52,6 +52,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 ### 🤝🏻 &nbsp;Contatct
 
-<p align="center">
-</p>
+
+<code><a href="mailto:filippo.giacche@gmail.com"><img height="40" src="./img/external_logo/logo_gmail_lockup_default_1x_r2.png" alt="gmail" /></a></code>
+<code><a href="https://www.linkedin.com/in/filippo-giacch%C3%A8-37064717b/"><img height="40" src="./img/external_logo/linkedin-logo.png" alt="linkedin" /></a></code>
+
 

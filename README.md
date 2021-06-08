@@ -32,7 +32,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ### Skills 
 <code><a href="https://www.kernel.org/"><img height="40" src="./linux.png" alt="linux logo" /></a></code>
 <code><a href="https://archlinux.org/"><img height="40" src="./archlinux-512.png" alt="arch linux logo" /></a></code>
-<code><a href="https://https://www.kali.org/"><img height="40" src="./kali.png" alt="kali linux logo" /></a></code>
+<code><a href="https://www.kali.org/"><img height="40" src="./kali.png" alt="kali linux logo" /></a></code>
 <code><a href="https://ubuntustudio.org/"><img height="40" src="./ubuntu-Studio.jpg" alt="ubuntu studio linux logo" /></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="40" src="./typescript-seeklogo.com.svg" alt="ts logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="./frontEnd.jpg" alt="js logo" /></a></code>

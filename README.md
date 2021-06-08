@@ -20,13 +20,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 ### About Me
 
-:arrow_right: &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-:arrow_right: &nbsp;I'm graduated in Computer Science and Mathematics at the University of Perugia (Unipg).\
-:arrow_right: &nbsp;I am open source (..and Linux :penguin:) enthusiast.\
-:arrow_right: &nbsp;I had worked on libreoffice as free contributor. <a href="https://github.com/giacco/giacco/blob/main/img/personal/Filippo%20giacche%CC%80.pdf">[LO]</a> \
-:arrow_right: &nbsp;I have developed some application for XEROX MFD eg:<a href="https://appgallery.services.xerox.com/#!/home/app-details/3741a1da-0a7f-44ba-a662-87ccaaaa6cb8">MC Counter pro</a> ... and much more ... \
-:arrow_right: &nbsp;Please have a look at my <a href="https://github.com/giacco/giacco/blob/main/img/personal/Filippo%20giacche%CC%80.pdf">[CV]</a> for more details about me. I'm open to feedback and suggestions! NOTE: it is in Italian language.\
-:arrow_right: &nbsp;In my free time... Music ... :musical_note: :musical_keyboard: :musical_score: :guitar: :guitar: :metal: \
+* I like to explore new technologies and develop software solutions and quick hacks.\
+* I'm graduated in Computer Science and Mathematics at the University of Perugia (Unipg).\
+* I am open source (..and Linux :penguin:) enthusiast.\
+* I had worked on libreoffice as free contributor. <a href="https://github.com/giacco/giacco/blob/main/img/personal/Filippo%20giacche%CC%80.pdf">[LO]</a> \
+* I have developed some application for XEROX MFD eg:<a href="https://appgallery.services.xerox.com/#!/home/app-details/3741a1da-0a7f-44ba-a662-87ccaaaa6cb8">MC Counter pro</a> ... and much more ... \
+* Please have a look at my <a href="https://github.com/giacco/giacco/blob/main/img/personal/Filippo%20giacche%CC%80.pdf">[CV]</a> for more details about me. I'm open to feedback and suggestions! NOTE: it is in Italian language.\
+* In my free time... Music ... :musical_note: :musical_keyboard: :musical_score: :guitar: :guitar: :metal: \
 
 
 ### Skills 

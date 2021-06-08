@@ -30,17 +30,24 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 
 ### Skills 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" /></a></code>
-<code><a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></a></code>
-<code><a href="https://nodejs.org/en/"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></a></code>
-<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
+<code><a href="https://www.kernel.org/"><img height="40" src="./linux.png" alt="linux logo" /></a></code>
+<code><a href="https://archlinux.org/"><img height="40" src="./archlinux-512.png" alt="arch linux logo" /></a></code>
+<code><a href="https://https://www.kali.org/"><img height="40" src="./kali.png" alt="kali linux logo" /></a></code>
+<code><a href="https://ubuntustudio.org/"><img height="40" src="./ubuntu-Studio.jpg" alt="ubuntu studio linux logo" /></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="40" src="./typescript-seeklogo.com.svg" alt="ts logo" /></a></code>
+<code><a href="https://www.javascript.com/"><img height="40" src="./frontEnd.jpg" alt="js logo" /></a></code>
+<code><a href="https://nodejs.org/en/"><img height="40" src="node-js.jpg" alt="nodejs logo" /></a></code>
+<code><a href="https://www.python.org/"><img height="40" src="./python-seeklogo.com.svg" alt="python logo" /></a></code>
+<code><a href="https://www.java.com/en/"><img height="40" src="./Java-Logo.png" alt="python logo" /></a></code>
+<code><a href="https://www.raspberrypi.org/"><img height="40" src="Raspberry.png" alt="raspberry logo" /></a></code>
 
 ### Currently Getting Familiar
-<code><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" /></a></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a></code>
-<code><img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" /></a></code>
+<code><a href="https://www.cprogramming.com/"><img height="40" src="C.png" alt="c logo" /></a></code>
+<code><a href="https://www.cprogramming.com/"><img height="40" src="cpp.png" alt="c++ logo" /></a></code>
+<code><a href="https://www.docker.com/"><img height="40" src="docker.png" alt="doker logo" /></a></code>
+<code><a href="https://www.arduino.cc/"><img height="40" src="arduino-logo.png" alt="arduino logo" /></a></code>
+<code><a href="https://developer.android.com/"><img height="40" src="./android.jpg" alt="python logo" /></a></code>
+
 
 
 ### 🤝🏻 &nbsp;Contatct

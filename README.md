@@ -42,6 +42,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <code><a href="https://www.raspberrypi.org/"><img height="40" src="./img/external_logo/Raspberry.png" alt="raspberry logo" /></a></code>
 
 ### Currently Getting Familiar
+<code><a href="https://www.php.net/"><img height="40" src="./img/external_logo/php.png" alt="php logo" /></a></code>
 <code><a href="https://www.cprogramming.com/"><img height="40" src="./img/external_logo/C.png" alt="c logo" /></a></code>
 <code><a href="https://www.cprogramming.com/"><img height="40" src="./img/external_logo/cpp.png" alt="c++ logo" /></a></code>
 <code><a href="https://www.docker.com/"><img height="40" src="./img/external_logo/docker.png" alt="doker logo" /></a></code>
